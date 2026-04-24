@@ -1,4 +1,4 @@
-# 🚀 Inayat Ullah - Portfolio
+# 🚀 Inayat Ullah
 
 Senior Software Engineer (MERN Stack) with 7+ years of experience building scalable, high-performance web applications across FinTech, Web3, SaaS, and E-commerce domains.
 
